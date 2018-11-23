@@ -64,8 +64,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/Mojolicious/Plugin/README.pod
-/usr/lib/perl5/vendor_perl/5.26.1/Mojolicious/Plugin/RenderFile.pm
+/usr/lib/perl5/vendor_perl/5.28.0/Mojolicious/Plugin/README.pod
+/usr/lib/perl5/vendor_perl/5.28.0/Mojolicious/Plugin/RenderFile.pm
 
 %files dev
 %defattr(-,root,root,-)
