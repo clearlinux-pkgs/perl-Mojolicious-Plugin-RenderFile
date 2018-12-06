@@ -4,7 +4,7 @@
 #
 Name     : perl-Mojolicious-Plugin-RenderFile
 Version  : 0.12
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/K/KO/KOORCHIK/Mojolicious-Plugin-RenderFile-0.12.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KO/KOORCHIK/Mojolicious-Plugin-RenderFile-0.12.tar.gz
 Summary  : unknown
