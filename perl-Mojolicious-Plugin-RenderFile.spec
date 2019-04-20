@@ -4,7 +4,7 @@
 #
 Name     : perl-Mojolicious-Plugin-RenderFile
 Version  : 0.12
-Release  : 9
+Release  : 10
 URL      : https://cpan.metacpan.org/authors/id/K/KO/KOORCHIK/Mojolicious-Plugin-RenderFile-0.12.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/K/KO/KOORCHIK/Mojolicious-Plugin-RenderFile-0.12.tar.gz
 Summary  : unknown
@@ -22,6 +22,7 @@ Mojolicious::Plugin::RenderFile - "render_file" helper for Mojolicious
 Summary: dev components for the perl-Mojolicious-Plugin-RenderFile package.
 Group: Development
 Provides: perl-Mojolicious-Plugin-RenderFile-devel = %{version}-%{release}
+Requires: perl-Mojolicious-Plugin-RenderFile = %{version}-%{release}
 
 %description dev
 dev components for the perl-Mojolicious-Plugin-RenderFile package.
