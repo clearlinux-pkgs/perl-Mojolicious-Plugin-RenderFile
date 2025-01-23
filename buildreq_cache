@@ -1,3 +1,4 @@
 0.12
+perl(Digest::MD5)
 perl(Mojo::Base)
 perl(Mojolicious)
